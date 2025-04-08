@@ -9,7 +9,7 @@ redirect_from:
 
 Hey there! I’m Yiran Guo, a grad student who’s probably spent too much time chasing ideas down rabbit holes. I work on artificial intelligence, computer vision and multi-sensor navigation. And I’m fascinated by something newly released. Stick around if you’re into weird questions, random discoveries, or just want to see if I ever figure this stuff out!
 
-You can find my CV here: Yiran Guo's Curriculum Vitae(../assets/CV_Yiran Guo.pdf)
+You can find my CV here: [Yiran Guo's Curriculum Vitae](../assets/CV_Yiran Guo.pdf)
 
 Education
 ======
