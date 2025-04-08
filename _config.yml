@@ -13,7 +13,7 @@ title                    : "Yiran Guo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiran Guo"
 description              : &description "A grad student from Beijing Institute of Technology"
-url                      : https://peking5t5.github.io/YiranGuo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://peking5t5.github.io/YiranGuo.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Peking5t5/YiranGuo.github.io"
 
